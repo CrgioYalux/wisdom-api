@@ -22,6 +22,4 @@ quoteSchema.set('toJSON', {
 
 const Quote = model('Quote', quoteSchema);
 
-module.exports = {
-	Quote,
-};
+module.exports = Quote;

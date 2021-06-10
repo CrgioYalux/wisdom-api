@@ -1,0 +1,6 @@
+GET http://localhost:3000/api/quotes/:id_here
+
+
+###
+
+GET http://localhost:3000/api/quotes/60c164af47f04633714884c5

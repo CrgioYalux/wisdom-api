@@ -1,0 +1,7 @@
+PUT http://localhost:3000/api/quotes/60c1837461d3903ec43579c9
+Content-Type: application/json
+
+{
+  "content":"U know that feeling of emptiness?",
+  "author":"Rue"
+}

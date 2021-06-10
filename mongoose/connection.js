@@ -17,5 +17,5 @@ mongoose
 	});
 
 // process.on('uncaughtException', () => {
-// 	moongose.connection.disconnect();
+// 	mongoose.connection.close();
 // });
